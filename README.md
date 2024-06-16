@@ -1,1 +1,1 @@
-# Analysing Political speeches using text networks
+# Analysing Text Networks in Relation to Politics
